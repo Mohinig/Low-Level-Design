@@ -1,0 +1,8 @@
+Chain of Responsibility Design Pattern
+
+eg
+Design ATM/Vending Machine
+Design Logger
+
+One sender(Client) send requests to many receivers(R1,R2)
+Request goes to R1 if not fulfilled goes to R2 if successful it returns the response
