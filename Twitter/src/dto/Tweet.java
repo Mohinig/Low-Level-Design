@@ -51,7 +51,7 @@ public class Tweet {
     }
     @Override
     public String toString() {
-        return "dto.Tweet{" +
+        return "Tweet{" +
                 "id='" + id + '\'' +
                 ", content='" + content + '\'' +
                 ", time=" + time +
